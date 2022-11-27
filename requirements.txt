@@ -1,3 +1,4 @@
 colorama
 psutil
+httpx
 requests
