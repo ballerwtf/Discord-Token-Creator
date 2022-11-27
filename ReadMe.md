@@ -10,7 +10,6 @@ Create Discord Token Unlocked 🤖
 - Cross platform
 - Ai Solving
 - Cloudflare Bypass
-- 
 - Mail Verified
 - Unclaimed Tokens
 - Fast and optimised
@@ -31,7 +30,7 @@ Discord tokens if a dead buisness, don't gonna use it anymore, enjoy it ;)
 
 ## Authors
 
-- [@Vanixy](https://www.github.com/Vanixy)
+- [@VLory771](https://www.github.com/Lory771)
 
 
 ## License
