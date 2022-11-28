@@ -12,7 +12,7 @@ from modules.captcha import CaptchaSolver
 import random, threading, httpx, time, json, itertools, os
 os.system('cls')
 
-num = "115427" ##DiscordApi.get_build_number() #Yes because i dont whant to wait 20min to get this shit after each debug.
+num = "115427" ##DiscordApi.get_build_number() #Yes because i dont want to wait 20min to get this shit after each debug.
 print(num)
 proxies = open("./data/proxies.txt", 'r+').read().splitlines() # itertools.cycle() / next(proxies) to made perfect rotation but i put random to debug
 config = json.load(open("./data/config.json"))
