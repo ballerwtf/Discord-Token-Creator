@@ -22,7 +22,7 @@ class Discord:
         try:
             with open("./discord_usernamesd.txt", encoding="utf-8") as f: 
                 self.users = [i.strip() for i in f]
-        except: self.users = ["i love vast", "vast is cute", "vtg"]
+        except: self.users = ["i love lory", "lory is cute", "ltg"]
     
     def GEN(self):
         Console._cap_worker += 1
