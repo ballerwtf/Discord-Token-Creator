@@ -1,4 +1,4 @@
-LAST USE: 25 VEMBER funny
+
 # Discord Token Generator/Creator
 
 Create Discord Token Unlocked 🤖
